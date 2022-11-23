@@ -1,0 +1,44 @@
+noir
+#000000 black
+
+blanc
+#D5D195 winter hazel
+
+maarron
+#4E2F1F Cafe Noir
+#A6814C Coffee
+#D7C498 Pavlova
+
+beige-creme
+#6A6051 Soya Bean
+#997A8D Mountbatten Pink
+#78866B Camouflage Green
+#988D77 Pale Oyster
+#C08081 Old Rose
+#E2CA76 Sand
+
+vert
+#0A5F38 Spruce
+#278A5B Eucalyptus
+#7F8F4E Camo
+
+bleu-mauve
+#464196 Blueberry
+#15317E Lapis Blue
+
+violet saumon
+#4E387E Purple Haze
+#D58A94 Dusty Pink
+
+rouge
+#C23B22 dark paastel red
+#F75D59 Bean Red
+
+jaune
+#E8A317 School Bus Yellow
+#ECA927 Fuel Yellow
+
+orange
+#D2691E Cocoa Brown
+#E66C2C Halloween Orange
+
