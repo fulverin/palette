@@ -19,6 +19,7 @@ beige-creme
 
 vert
 #0A5F38 Spruce
+#177245 Dark Spring Green
 #278A5B Eucalyptus
 #7F8F4E Camo
 
@@ -31,6 +32,7 @@ violet saumon
 #D58A94 Dusty Pink
 
 rouge
+#701C1C Persian Plum
 #C23B22 dark paastel red
 #F75D59 Bean Red
 
